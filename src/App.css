@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#coin-stack {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  border: 1px black solid;
+  padding-left: 0px;
+  margin-left: 47vw;
+}
+
+#coin-stack > li {
+  border: 1px black dashed;
+}
