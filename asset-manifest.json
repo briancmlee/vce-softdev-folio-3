@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vce-softdev-folio-3/static/css/main.46a965ab.chunk.css",
+    "main.js": "/vce-softdev-folio-3/static/js/main.a7d5aacb.chunk.js",
+    "main.js.map": "/vce-softdev-folio-3/static/js/main.a7d5aacb.chunk.js.map",
+    "runtime-main.js": "/vce-softdev-folio-3/static/js/runtime-main.f9181254.js",
+    "runtime-main.js.map": "/vce-softdev-folio-3/static/js/runtime-main.f9181254.js.map",
+    "static/js/2.b528838b.chunk.js": "/vce-softdev-folio-3/static/js/2.b528838b.chunk.js",
+    "static/js/2.b528838b.chunk.js.map": "/vce-softdev-folio-3/static/js/2.b528838b.chunk.js.map",
+    "index.html": "/vce-softdev-folio-3/index.html",
+    "precache-manifest.ea33f01c6e8133f7db733eb367fcb580.js": "/vce-softdev-folio-3/precache-manifest.ea33f01c6e8133f7db733eb367fcb580.js",
+    "service-worker.js": "/vce-softdev-folio-3/service-worker.js",
+    "static/css/main.46a965ab.chunk.css.map": "/vce-softdev-folio-3/static/css/main.46a965ab.chunk.css.map",
+    "static/js/2.b528838b.chunk.js.LICENSE.txt": "/vce-softdev-folio-3/static/js/2.b528838b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9181254.js",
+    "static/js/2.b528838b.chunk.js",
+    "static/css/main.46a965ab.chunk.css",
+    "static/js/main.a7d5aacb.chunk.js"
+  ]
+}
